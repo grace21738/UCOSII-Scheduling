@@ -48,8 +48,8 @@
 
   1. $T_1( 1,3 ), \ \ \ T_2(3,5)$
 
-     <img src=".\images\EDF_2.jpg" alt="EDF_1" style="zoom:33%;" />
+     <img src=".\images\EDF_2.jpg" alt="EDF_2" style="zoom:33%;" />
 
   2. $T_1( 1,4 ), \ \ \ T_2(2,5)\ \ \ T_2(2,10)$
 
-     <img src=".\images\EDF_2.jpg" alt="EDF_1" style="zoom:33%;" />
+     <img src=".\images\EDF_1.jpg" alt="EDF_1" style="zoom:33%;" />
